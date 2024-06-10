@@ -19,7 +19,7 @@ This project is a blog site built with the MERN stack (MongoDB, Express.js, Reac
     cd ../myblog
     npm install
 ## Usage
-1.Start the backend server:
+## 1.Start the backend server:
 
         cd backend
         npm start
