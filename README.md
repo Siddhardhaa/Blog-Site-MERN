@@ -13,16 +13,18 @@ This project is a blog site built with the MERN stack (MongoDB, Express.js, Reac
       ```sh
    git clone https://github.com/Siddhardhaa/Blog-Site-MERN.git
 3. Install dependencies for both client and server:
+   ```sh
     cd backend
     npm install
     cd ../myblog
     npm install
 Usage
 1.Start the backend server:
+```sh
 	cd backend
         npm start
-2.Start the frontend:
+2. Start the frontend:
       cd myblog
-      npm start
+      npm start	
 Contributing
 Feel free to submit issues and pull requests.
